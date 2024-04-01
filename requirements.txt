@@ -1,0 +1,6 @@
+crewai
+discord
+
+# dev
+black
+isort
