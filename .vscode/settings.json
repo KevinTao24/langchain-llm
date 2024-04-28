@@ -1,11 +1,13 @@
 {
     "cSpell.words": [
         "crewai",
+        "embedchain",
         "langchain",
         "llms",
         "Ollama",
         "OPENAI",
         "praw",
+        "pydantic",
         "serp",
         "SERPER"
     ]

@@ -1,5 +1,7 @@
 crewai
 discord
+embedchain
+faiss-cpu
 
 # dev
 black
