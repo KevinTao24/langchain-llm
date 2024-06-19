@@ -1,14 +1,32 @@
 {
     "cSpell.words": [
+        "chatglm",
         "crewai",
         "embedchain",
+        "fastapi",
+        "genai",
+        "generativeai",
         "langchain",
+        "langserve",
+        "langsmith",
         "llms",
+        "lxml",
+        "mysqlconnector",
+        "nomic",
         "Ollama",
         "OPENAI",
+        "pingan",
         "praw",
         "pydantic",
+        "selectbox",
         "serp",
-        "SERPER"
+        "SERPER",
+        "tabpanel",
+        "thead",
+        "uvicorn",
+        "vectorstores",
+        "weaviate",
+        "ZHIPU",
+        "zhipuai"
     ]
 }

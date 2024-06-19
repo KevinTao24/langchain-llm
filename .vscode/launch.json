@@ -12,6 +12,20 @@
       "console": "integratedTerminal",
       "justMyCode": false,
       "env": { "PYTHONPATH": "${workspaceRoot}" }
+    },
+    {
+      "name": "Streamlit",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": [
+        "run",
+        "/Users/kevintao/Desktop/startup/future/future/main_streamlit.py"
+      ],
+      "justMyCode": false
+      // "debugOptions": [
+      //     "RedirectOutput"
+      // ]
     }
   ]
 }

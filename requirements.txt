@@ -1,7 +1,11 @@
-crewai
 discord
 embedchain
-faiss-cpu
+chromadb
+langchain
+langsmith
+streamlit
+google-generativeai
+langchain_google_genai
 
 # dev
 black
