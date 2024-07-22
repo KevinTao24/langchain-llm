@@ -9,8 +9,8 @@ from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langserve import add_routes
 
-from future.chains.langchain_chain import ChatInput, answer_chain
-from future.my_secrets import GOOGLE_API_KEY, ZHIPU_API_KEY
+from nexx.chains.langchain_chain import ChatInput, answer_chain
+from nexx.my_secrets import GOOGLE_API_KEY, ZHIPU_API_KEY
 
 app = FastAPI(
     title="LangChain Server",

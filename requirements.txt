@@ -6,6 +6,7 @@ langsmith
 streamlit
 google-generativeai
 langchain_google_genai
+langgraph
 
 # dev
 black
